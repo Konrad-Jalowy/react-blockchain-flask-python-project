@@ -1,5 +1,7 @@
 # react-blockchain-flask-python-project
 Blockchain React-Flask-Python project I completed with the Udemy course </br>
+Authors github link: https://github.com/15Dkatz/python-blockchain-tutorial </br>
+Authors Udemy course link: https://www.udemy.com/course/python-js-react-blockchain/?referralCode=9051A01550E782315B77
 # Important info: </br>
 - These are the project I completed with Udemy courses some time ago and now I revisit the code and document my portfolio. </br>
 - This project deals with Python and blockchain. I do not search for a job as Python developer, but that being said, I spent some time in Python
